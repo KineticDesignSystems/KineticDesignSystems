@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="KDSbanner.png" alt="KDS Banner" width="100%">
+  <img src="banner.png" alt="KDS Banner" width="100%">
 </p>
 
 <h1 align="center">Kinetic Design System</h1>
