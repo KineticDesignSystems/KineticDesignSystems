@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="KDSbanner.png" alt="KDS Banner" width="100%">
+</p>
 
-<!--
-**KineticDesignSystems/KineticDesignSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Kinetic Design System</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Design Once. Automate Everything.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Kinetic Design System (KDS) is an open-source ecosystem dedicated to building modern creative automation tools for Adobe applications and production workflows.
+
+Our goal is to eliminate repetitive tasks through intelligent automation, enabling designers and production teams to focus on creating rather than clicking.
+
+
+---
+
+## What We Build
+
+- Adobe ExtendScript Tools
+- Workflow Automation
+- Production Utilities
+- Design Systems
+- Creative Libraries
+- Open Source Frameworks
+
+---
+
+## Mission
+
+Build professional-grade software that helps designers, print shops, and creative teams work faster, smarter, and more consistently.
+
+---
+
+## License
+
+Each repository contains its own license information.
+
+---
+
+<p align="center">
+  Built with AI • Design Once • Highly Extensible
+</p>
